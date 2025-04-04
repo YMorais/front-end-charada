@@ -21,8 +21,7 @@ O projeto "Charadas do Dia" é uma aplicação web interativa que traz uma nova 
 - ✅ Mostra uma charada aleatória vinda da API  
 - ✅ Permite o usuário digitar uma resposta  
 - ✅ Validação da resposta com acentuação e símbolos ignorados  
-- ✅ Exibe se a resposta está correta ou incorreta  
-- ✅ Exibe a resposta certa ao clicar em "Ver resposta"  
+- ✅ Exibe se a resposta está correta ou incorreta
 - ✅ Botão para gerar uma nova charada  
 - ✅ Interface com visual lúdico, colorido e divertido  
 
