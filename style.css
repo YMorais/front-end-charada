@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f8f9fa;
+}
+.charada-container {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+.charada-container h2 {
+    font-weight: bold;
+}
+.charada-container p {
+    color: #007bff;
+    font-size: 1.1rem;
+}
+.btn-verde {
+    background-color: #c32aff;
+    border: none;
+}
+.btn-azul {
+    background-color: #ff0080;
+    border: none;
+    color: white;
+}
